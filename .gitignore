@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Data 
+oxford-iiit-pet*
+
