@@ -10,6 +10,7 @@ We will use the California house price dataset.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+
 Advanced Tutorial (Code your own algorithms):
 
 <a target="_blank" href="https://colab.research.google.com/github/lm2612/Tutorials/blob/main/1_supervised_learning_regression/1-AdvancedLinearRegression_HousePrice.ipynb">
@@ -23,7 +24,12 @@ We will use the Titanic survival rate dataset.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Advanced:
+
+Advanced (Code your own algorithms): 
+
+<a target="_blank" href="https://colab.research.google.com/github/lm2612/Tutorials/blob/main/2_supervised_learning_classification/2-Advanced_Classification_Titanic.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Introduction to Deep Learning
 ### Part 3: Deep neural networks
@@ -32,6 +38,7 @@ We will use the same data as part 1, the California house price dataset.
 <a target="_blank" href="https://colab.research.google.com/github/lm2612/Tutorials/blob/main/3_deeplearning/3-DeepLearning_HousePrice.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 
 ### Part 4: Computer vision 
 We will build a convolutional neural network (CNN) classifier to classify cats and dogs, using the Oxford-IIIT-Pet dataset.
