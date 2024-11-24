@@ -6,7 +6,8 @@ This github repoitory contains code for Introduction to Supervised Learning and 
 ### Part 1: Regression
 We will use the California house price dataset. 
 
-Notebook: Use python packages to predict house prices starting with linear regression with one input feature, then adding more terms (polynomial regression), adding more variables (multivariate linear regression) and even regularisation.
+#### Tutorial
+Use python packages to predict house prices starting with linear regression with one input feature, then adding more terms (polynomial regression), adding more variables (multivariate linear regression) and even regularisation.
 
 <a target="_blank" href="https://colab.research.google.com/github/lm2612/Tutorials/blob/main/1_supervised_learning_regression/1-LinearRegression_HousePrice.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
@@ -23,14 +24,15 @@ Code up your own linear regression, gradient descent, and stochastic gradient de
 ### Part 2: Classification
 We will use the Titanic survival rate dataset.
 
-Notebook: Use python packages to compare different classification methods. We will build a logistic regression and classification tree and at the end we will compare their true negatives, true positives, false negatives and false positives. 
+#### Tutorial
+Use python packages to compare different classification methods. We will build a logistic regression and classification tree and at the end we will compare their true negatives, true positives, false negatives and false positives. 
 
 <a target="_blank" href="https://colab.research.google.com/github/lm2612/Tutorials/blob/main/2_supervised_learning_classification/2-Classification_Titanic.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Advanced (Code your own algorithms): Code up your own logistic regression and classification trees. For logistic regression, we will consider how to interpret the coefficients we have learned. For the classification trees, we will think about which variable to split on by considering which variable leads to the greatest reduction in entropy.
-
+#### Advanced Tutorial (Code your own algorithms)
+Code up your own logistic regression and classification trees. For logistic regression, we will consider how to interpret the coefficients we have learned. For the classification trees, we will think about which variable to split on by considering which variable leads to the greatest reduction in entropy.
 
 <a target="_blank" href="https://colab.research.google.com/github/lm2612/Tutorials/blob/main/2_supervised_learning_classification/2-Advanced_Classification_Titanic.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
