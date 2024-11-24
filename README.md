@@ -4,18 +4,22 @@ This github repoitory contains code for Introduction to Supervised Learning and 
 
 ## Introduction to Supervised Learning
 ### Part 1: Regression
-We will use the California house price dataset.
+We will use the California house price dataset. 
 
 <a target="_blank" href="https://colab.research.google.com/github/lm2612/Tutorials/blob/main/1_supervised_learning_regression/1-LinearRegression_HousePrice.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Use python packages to predict house prices starting with linear regression with one input feature, then adding more terms (polynomial regression), adding more variables (multivariate linear regression) and even regularisation.
 
 Advanced Tutorial (Code your own algorithms):
 
 <a target="_blank" href="https://colab.research.google.com/github/lm2612/Tutorials/blob/main/1_supervised_learning_regression/1-AdvancedLinearRegression_HousePrice.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+Code up your own linear regression, gradient descent, and stochastic gradient descent. Compare the results to the python packages scikit-learn and even Pytorch.
+
 
 ### Part 2: Classification
 We will use the Titanic survival rate dataset.
@@ -24,12 +28,16 @@ We will use the Titanic survival rate dataset.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+Use python packages to compare different classification methods. We will build a logistic regression and classification tree and at the end we will compare their true negatives, true positives, false negatives and false positives.
 
 Advanced (Code your own algorithms): 
 
 <a target="_blank" href="https://colab.research.google.com/github/lm2612/Tutorials/blob/main/2_supervised_learning_classification/2-Advanced_Classification_Titanic.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+Code up your own logistic regression and classification trees. For logistic regression, we will consider how to interpret the coefficients we have learned. For the classification trees, we will think about which variable to split on by considering which variable leads to the greatest reduction in entropy.
+
 
 ## Introduction to Deep Learning
 ### Part 3: Deep neural networks
@@ -39,6 +47,7 @@ We will use the same data as part 1, the California house price dataset.
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+This is the same problem as Tuesday, although we are using a larger dataset. We will build a simple neural network in Pytorch and you will learn how to code up the training loop, following the steps discussed in class. Look out for signs of overfitting and explore different neural network structures. Compare the results to the linear regression model we built on Tuesday.
 
 ### Part 4: Computer vision 
 We will build a convolutional neural network (CNN) classifier to classify cats and dogs, using the Oxford-IIIT-Pet dataset.
@@ -47,5 +56,6 @@ We will build a convolutional neural network (CNN) classifier to classify cats a
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+This is a classic machine learning problem: building a dog/cat classifier. We have a large dataset of images of cats and dogs and we will go through the steps needed to create a CNN to predict if an image is a dog (1) or a cat (0). Pay attention to the size of the output at each convolutional layer and check for any errors before running the training loop. At the end, you can look at what different layers of the network are doing, in other words, what kernels/filters have we learned?
 
 
