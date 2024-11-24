@@ -12,8 +12,8 @@ Notebook: Use python packages to predict house prices starting with linear regre
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-
-Advanced Tutorial (Code your own algorithms): Code up your own linear regression, gradient descent, and stochastic gradient descent. Compare the results to the python packages scikit-learn and even Pytorch.
+#### Advanced Tutorial (Code your own algorithms)
+Code up your own linear regression, gradient descent, and stochastic gradient descent. Compare the results to the python packages scikit-learn and even Pytorch.
 
 <a target="_blank" href="https://colab.research.google.com/github/lm2612/Tutorials/blob/main/1_supervised_learning_regression/1-AdvancedLinearRegression_HousePrice.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
