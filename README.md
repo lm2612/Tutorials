@@ -4,7 +4,7 @@ This github repoitory contains code for Introduction to Supervised Learning and 
 
 
 ## Set up instructions
-You will need to either login or sign up to a Google account to open and run notebooks on [Google colab](https://colab.research.google.com/). 
+You will need to either login or sign up to a Google account to open and run notebooks on [Google colab](https://colab.research.google.com/). (Note, I have included details of my conda environment in `requirements.txt` file for running offline, but it is highly recommended to use Google colab during the tutorial to avoid any potential issues with package installations.)
 
 
 ## Introduction to Supervised Learning
