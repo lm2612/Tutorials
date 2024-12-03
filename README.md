@@ -60,5 +60,11 @@ We will build a convolutional neural network (CNN) classifier to classify cats a
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+## Resources
+
+Python for R users:
+* [Rebecca Barter Blog plot: From R to Python](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python). Includes how to use Pandas dataframes, similar to R dataframes.
+* [R Vignettes: Python Primer](https://cran.r-project.org/web/packages/reticulate/vignettes/python_primer.html). Includes an introduction to using classes, needed for deep learning tutorial.
+
 
 
